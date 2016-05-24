@@ -14,4 +14,8 @@ public class Outra {
         
         
     }
+    
+    public void stop(){
+        
+    }
 }
