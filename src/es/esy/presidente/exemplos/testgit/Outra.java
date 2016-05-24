@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package testgit;
+package es.esy.presidente.exemplos.testgit;
 
 /**
  *
