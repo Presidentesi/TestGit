@@ -10,5 +10,8 @@ package es.esy.presidente.exemplos.testgit;
  * @author Lethicia
  */
 public class Outra {
-    
+    public void Outra(){
+        
+        
+    }
 }
